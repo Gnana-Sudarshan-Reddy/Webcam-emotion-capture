@@ -320,7 +320,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-**Sai Ram Reddy** — [GitHub Profile](https://github.com/yourusername)
+**Gnana Sudarshan Reddy** — [GitHub Profile](https://github.com/Gnana-Sudarshan-Reddy)
 
 ---
 
