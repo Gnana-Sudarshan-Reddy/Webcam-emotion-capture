@@ -1,0 +1,48 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too large for git)
+data/fer2013.csv
+data/fer2013/
+data/*.csv
+
+# Model weights (use Git LFS or releases for large files)
+models/*.h5
+models/*.keras
+models/*.pb
+models/*.tflite
+!models/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results (regeneratable)
+results/*.png
+results/*.json
+!results/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Distribution
+dist/
+build/
+*.egg-info/
